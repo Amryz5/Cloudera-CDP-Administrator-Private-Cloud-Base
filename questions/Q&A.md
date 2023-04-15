@@ -157,7 +157,7 @@
 36.	**What is the default location for service daemon configuration files?**
 	-	**Ans:** /var/run/cloudera-scm-agent/process
 	
-36.	** **
+36.	** ** **
 	-	**Ans:**	
 
 
